@@ -24,7 +24,7 @@ I started college at age 42 finally figuring out I love creating websites front 
 I was born in California and moved to Indiana when I was 10. I have been married for 21 years and have a 20 year old son. 
 
 ## Education so far..
----
+
 ### Ivy Tech Community College
 
 * Learned HTML, CSS, Node.js, and JavaScript
@@ -36,6 +36,8 @@ I was born in California and moved to Indiana when I was 10. I have been married
 
 * Certified in HTML, CSS, and JavaScript from Global Career Accelerator
 * Loading... Bachelor's degree in GIT Full-Stack Web Development
+
+---
 
 ## Websites Live
 
